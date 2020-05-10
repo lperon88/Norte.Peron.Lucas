@@ -13,5 +13,13 @@ namespace Demo.website.Controllers
         {
             return View();
         }
+        public ActionResult ConceptosBásicos4()
+        {
+            return View();
+        }
+        public ActionResult ConceptosBásicos3()
+        {
+            return View();
+        }
     }
 }
